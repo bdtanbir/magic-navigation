@@ -141,7 +141,7 @@ body {
     text-fill-color: transparent;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: gradientbg 2s infinite linear;
+    animation: gradientbg 4s infinite linear;
     background-size: 200% auto;
 }
 @keyframes gradientbg {
